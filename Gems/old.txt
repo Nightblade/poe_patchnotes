@@ -1,0 +1,288 @@
+Vaal Detonate Dead
+
+Explosion deals base Fire Damage equal to 9% of the corpse's Maximum Life
+
+Vaal Haste
+
+You and nearby allies gain 13% increased Movement Speed
+
+Vaal Reave
+
+Attack Damage 313% of base
+Effectiveness of Added Damage 313%
+
+Vaal Clarity
+
+Souls Per Use 30
+Base duration is 9.90 seconds
+
+Vaal Flameblast
+
+140% more Spell Damage for each stage
+
+Vaal Summon Skeletons
+
+
+Absolution
+
+Critical Strike Chance 5.00%
++4 to radius
+
+Animate Guardian
+
+Minions' Attacks deal 56 to 84 additional Physical Damage
+
+Cleave
+
++8 to radius
+
+Decoy Totem
+
+58% increased totem life
+
+Defiance Banner
+
+You and nearby Allies have 49% increased Armour and Evasion Rating
+Nearby Enemies have 29% reduced Critical Strike Chance
+
+Devouring Totem
+
+20% increased totem life
+
+Flesh and Stone
+
+Nearby Enemies are Blinded while in Sand Stance You take 11% less Damage from Attacks from Enemies that aren't nearby while in Sand Stance Nearby Enemies are Maimed while in Blood Stance
+
+Rejuvenation Totem
+
+
+Regenerate 162.2 Life per second
+
+Summon Flame Golem
+
+88% increased Minion Maximum Life
+
+Summon Stone Golem
+
+88% increased Minion Maximum Life
+
+Sunder
+
+Attack Damage 275% of base
+Effectiveness of Added Damage 275%
+
+Animate Weapon
+
+Cost 12 Mana
+
+Arctic Armour
+
+Buff grants 13% less Physical Damage taken from Hits while stationary
+Buff grants 12% less Fire Damage taken from Hits while stationary
+
+Artillery Ballista
+
+Attack Damage 57.3% of base
+Effectiveness of Added Damage 57%
+
+Charged Dash
+
+Final wave deals 75% of Damage per stage
+
+Cremation
+
+Explosion deals base Fire Damage equal to 4% of the corpse's Maximum Life
+
+Detonate Dead
+
+Explosion deals base Fire Damage equal to 6% of the corpse's Maximum Life
+
+Explosive Arrow
+
+
+Explosion deals 5% more Damage with Hits and Ailments per Explosive Arrow on Target
+
+Fire Trap
+
+Deals 4170.7 Base Fire Damage per second
+
+Flamethrower Trap
+
+Deals 211 to 319 Fire Damage
+
+Haste
+
+You and nearby allies gain 9% increased Movement Speed
+You and nearby allies gain 16% increased Cast Speed
+You and nearby allies gain 16% increased Attack Speed
+
+Herald of Agony
+
+Agony Crawler has 3% increased Attack Speed per Virulence you have
+
+Reave
+
+Attack Damage 225% of base
+Effectiveness of Added Damage 225%
+
+Scourge Arrow
+
+Attack Damage 35% of base
+Effectiveness of Added Damage 35%
+
+Seismic Trap
+
+Deals 853 to 1280 Physical Damage
+
+Sniper's Mark
+
+Curses a single enemy, increasing the damage they take from projectiles, and making projectiles split when hitting them, to hit other targets around them. You can gain charges for your life and mana flasks by hitting the cursed enemy. You can only have one Mark at a time.
+
+You gain a Life Flask Charge when you Hit Cursed Enemy, no more
+than once every 0.5 seconds
+You gain a Mana Flask Charge when you Hit Cursed Enemy, no more
+than once every 0.5 seconds
+
+Summon Ice Golem
+
+88% increased Minion Maximum Life
+
+Volatile Dead
+
+Explosion deals base Fire Damage equal to 3% of the corpse's Maximum Life
+
+Blazing Salvo
+
+Effectiveness of Added Damage 55%
+Deals 241 to 361 Fire Damage
+
+Bodyswap
+
+Effectiveness of Added Damage 85%
+
+This Spell deals 210 to 315, plus 3% of your maximum Life, as base Fire Damage
+Explosion deals base Fire Damage equal to 6% of the corpse's Maximum Life
+
+Crackling Lance
+
++2 to Beam Width Per Intensity 33% less branching angle per Intensity
+
+Energy Blade
+
+Two Handed Energy Blades have 50% more Lightning Damage
+
+Firestorm
+
+One impact every 0.20 seconds
+
+Lightning Spire Trap
+
+Effectiveness of Added Damage 75%
+Deals 207 to 622 Lightning Damage
+
+Raise Spectre
+
+Raised Spectres are Level 72
+
+Raise Zombie
+
+20% increased Minion Movement Speed
+Cost 38 Mana
+
+Scorching Ray
+
+Deals 696.3 Base Fire Damage per second
+
+Shock Nova
+
+20% chance to Shock enemies
+39% increased Effect of Shock
+
+Soulrend
+
+Effectiveness of Added Damage 150%
+Deals 716 to 1074 Chaos Damage
+Deals 2138.5 Base Chaos Damage per second
+
+Spellslinger
+
+Supported Skills have Added Spell Damage equal to 100% of Damage of Equipped Wand If two Wands are Equipped, each contributes half as much Added Damage
+
+Spirit Offering
+
+Consumes a corpse, granting extra chaos damage, elemental resistances and chaos resistance to your minions. The skill consumes other nearby corpses, increasing the duration for each corpse consumed.
+
+Minions gain 29% of their Physical Damage as Extra Chaos Damage
+Minions gain +30% to all Elemental Resistances
+Grants Minions +30% to Chaos Resistance
+
+Summon Carrion Golem
+
+88% increased Minion Maximum Life
+
+Summon Chaos Golem
+
+88% increased Minion Maximum Life
+
+Summon Holy Relic
+
+Holy Relic's Nova Skill grants 103.1 Life regenerated per second to Allies
+Holy Relic's Nova Skill grants 309 Life regenerated per second to Minions
+
+Summon Lightning Golem
+
+88% increased Minion Maximum Life
+
+Summon Raging Spirit
+
+Minions gain 15% less Added Damage
+Cost 12 Mana
+
+Summon Skeletons
+
+Minions gain 50% more Added Damage
+Cost 12 Mana
+
+Cast when Damage Taken Support
+
+Supported Skills deal 6% more Damage
+
+Cruelty Support
+
+Supports any skill that hits enemies.
+
+Divine Blessing Support
+
+Supported Skills have 24% increased Aura effect
+
+Eternal Blessing Support
+
+Supported Skills have 5% increased Aura effect
+
+Lifetap Support
+
+Supports any skill. Minions cannot gain the Lifetap buff.
+
+Urgent Orders Support
+
+Supported Skills have 59% increased Warcry Speed
+
+Advanced Traps Support
+
+Supported Skills have 29% increased Skill Effect Duration
+
+Arrow Nova Support
+
+Supported Skills deal 26% less Projectile Damage
+
+Cast on Death Support
+
+304% more Damage while Dead
+
+Critical Strike Affliction Support
+
+Supported Skills have +93% Damage over Time Multiplier for Ailments from Critical Strikes
+
+Summon Phantasm Support
+
+10% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions from Supported Skills, Hit a Rare or Unique Enemy
